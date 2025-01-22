@@ -1,5 +1,5 @@
 # Hypixel-BanTracker
-・Ban tracking for Hypixel.net.
+・Ban tracker for Hypixel.net.
 
 ## How to use　<br/>
 ・Need JDK21.<br>
