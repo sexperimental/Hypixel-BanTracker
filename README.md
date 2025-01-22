@@ -1,10 +1,10 @@
 # Hypixel-BanTracker
-・HypixelのBAN状況を確認するツール。
+・Ban tracking for Hypixel.net.
 
-## 使い方　<br/>
-・JDK21が必要です。<br>
-・cmdにて
+## How to use　<br/>
+・Need JDK21.<br>
+・Paste for cmd.
 ``java -jar BanTracker.jar`` <br>
 
-## 説明　<br/>
-・plancke.ioのAPIを使っています。
+## Explanation　<br/>
+・Using plancke.io's API.
